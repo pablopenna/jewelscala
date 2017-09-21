@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JewelScalaSwing</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.scala-ide.sdt.core.scalabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.scala-ide.sdt.core.scalanature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>Swing</name>
+			<value>file:/C:/Users/Sergio/Dropbox/Proyectos%20&amp;%20Sistemas%20Empresariales%20&amp;%20APA/APA/Scala/JewelScala%20con%20Swing/scala-swing_2.11-2.0.0.jar</value>
+		</variable>
+	</variableList>
+</projectDescription>
